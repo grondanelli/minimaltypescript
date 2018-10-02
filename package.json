@@ -18,7 +18,7 @@
   "scripts": {
     "build": "tsc -p tsconfig.release.json",
     "build:watch": "tsc -w -p tsconfig.release.json",
-    "lint": "tslint -t stylish --project \"tsconfig.json\"",
+    "lint": "tslint -t stylish --project \"tsconfig.json\""
   },
   "author": "Gian Rondanelli",
   "license": "Apache-2.0",
